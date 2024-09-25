@@ -12,9 +12,6 @@ body {
   background-color: #fff;
 }
 
-
-/* dominiks navbar */
-
 :root{
   --orange: #f78200;
   --blue: #007ec8;
@@ -103,7 +100,6 @@ body {
   padding: 15px 10px;
   max-width: 350px;
   min-width: 350px;
-  /* outline: 1px solid rgb(214, 214, 214); */
   height: auto; 
   border-radius: 4px       
 }
@@ -139,7 +135,6 @@ body {
   max-width: 400px;
   min-width: 400px;
   height: auto; 
-  /* outline: 1px solid rgb(189, 189, 189); */
   border-radius: 4px     
 }
 .hlist3 .verticals{
@@ -272,8 +267,6 @@ opacity: 0.9;
     background-color: #F78200;
     color: white !important;
 }
-
-/* end of dominiks navbar  */
 
 
 .dropdown__menu{
@@ -748,9 +741,9 @@ hr{
       display: block;
     }
 
-    .container, .main, .swiper, .slider{
+    /* .container, .main, .swiper, .slider{
       display: none;
-    }
+    } */
 
     .article-header h1{
       font-size: inherit;
